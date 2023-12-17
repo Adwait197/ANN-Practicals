@@ -71,6 +71,6 @@ Launch Jupyter Notebook: Start Jupyter Notebook
 
 Navigate to Assignment Folders: Open your browser and navigate to the Jupyter Notebook interface (usually at http://localhost:8888). Explore the extracted repository directory and locate the folders corresponding to each assignment
 
-Open and Run Notebooks: Click on the assignment notebook (.ipynb file) you want to work on. Read the instructions, run cells, and complete the assignments
+Open and Run Notebooks: Click on the assignment notebook (.py file) you want to work on. Read the instructions, run cells, and complete the assignments
 
 Submitting Changes: If you make improvements or solve problems, you won't be able to push changes back to the repository without Git. Consider keeping your work separate or manually submitting your changes to the original repository
