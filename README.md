@@ -1,6 +1,7 @@
 This GitHub repository contains a collection of assignments and projects focusing on Artificial Neural Networks (ANN). These assignments are designed to provide hands-on experience with key concepts and practical applications in these domains.
 
 Group A
+
 Activation Functions Plotter:
 Python program to visualize popular activation functions used in neural networks, aiding in understanding their behavior and suitability for different tasks.
 
